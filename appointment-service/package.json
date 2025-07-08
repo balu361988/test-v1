@@ -1,4 +1,5 @@
- "name": "appointment-service",
+{
+  "name": "appointment-service",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,3 +9,4 @@
     "express": "^4.18.2"
   }
 }
+
